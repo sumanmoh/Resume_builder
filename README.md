@@ -6,9 +6,10 @@ Features
 User Authentication:
 
 Registration Page: Collects full name, email address, and password.
-Login Page: Authenticates users before allowing access to resume management features.
-User Data Storage: Stores registration details in a MySQL database accessible via phpMyAdmin.
-Resume Management (CRUD Operations):
+
+-Login Page: Authenticates users before allowing access to resume management features.
+-User Data Storage: Stores registration details in a MySQL database accessible via phpMyAdmin.
+-Resume Management (CRUD Operations):
 
 Create: Users can create new resumes with various sections like personal information, education, experience, skills, etc.
 Read: Users can view their created resumes.
